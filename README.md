@@ -12,10 +12,22 @@
 <img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png">
 </code>
 
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/vue_button_icon_151943.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png"></code>
+<code>
+<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png">
+</code>
+
+<code>
+<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png">
+</code>
+
+<code>
+<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/vue_button_icon_151943.png">
+</code>
+
+<code>
+<img height="30" src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png">
+</code>
+
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/sass_button_icon_151921.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/materialize_button_icon_151952.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bootstrap_button_icon_151958.png"></code>
