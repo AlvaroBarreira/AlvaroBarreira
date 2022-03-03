@@ -4,7 +4,9 @@
 
 **Apps y Herramientas que uso:**  
 
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png"></code>
+<code>
+<img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png">
+</code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png"></code>
