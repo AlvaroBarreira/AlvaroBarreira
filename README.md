@@ -1,6 +1,6 @@
 ##  Hola! Mi Nombre es Alvaro Barreira
 
- Tengo 24 años y soy un joven desarrollador en constante capacitación. Actualmente me encuentro estudiando desarrollo MERN Full-Stack en una academia y trabajando de manera Freelance como Desarrollador Frontend.   
+ Tengo 24 años y soy un joven desarrollador en constante capacitación. Soy desarrollador MERN Full-Stack y trabajo de manera Freelance como Desarrollador Frontend.   
 
 **Apps y Herramientas que uso:**  
 
